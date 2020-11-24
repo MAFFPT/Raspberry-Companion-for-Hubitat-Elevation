@@ -1,1 +1,1 @@
-WebCORE image
+WebCORE image for Docker
