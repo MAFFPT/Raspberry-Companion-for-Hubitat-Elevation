@@ -1,4 +1,4 @@
-FROM raspbian:latest
+FROM debian:latest
 MAINTAINER Marco Felicio maffpt@gmail.com (branch from Bill McGair bill@mcgair.com)
 
 ARG MY_CN
