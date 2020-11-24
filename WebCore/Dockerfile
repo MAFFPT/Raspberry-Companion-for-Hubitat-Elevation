@@ -1,4 +1,4 @@
-FROM --platform linux/arm/v5, linux/arm/v6m, linux/arm/v7, linux/arm64/v8 debian:latest
+FROM --platform linux/arm/v5, linux/arm/v6, linux/arm/v7, linux/arm64/v8 debian:latest
 MAINTAINER Marco Felicio maffpt@gmail.com (branch from Bill McGair bill@mcgair.com)
 
 ARG MY_CN
